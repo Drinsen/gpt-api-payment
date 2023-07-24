@@ -76,7 +76,7 @@ ip2word官网地址为   https://www.ip2world.com?ref=SYJ5UGRZSP
 
 ![image](https://github.com/Drinsen/gpt-api-payment/assets/32355866/3c5eefb9-a6ae-422f-a34b-66b5359c7ec2)
 
-### 第六步
+### 第五步
 
 打开谷歌看浏览器新开一个无痕模式窗口，登录openai，然后将onekey中的信息一一对应的填写到openai的paymethod里即可。注意，账单地址需要填写onekey提供的，不要自己去乱生成
 
@@ -87,3 +87,9 @@ ip2word官网地址为   https://www.ip2world.com?ref=SYJ5UGRZSP
 然后点击submit就成功添加了支付方式，然后到账单界面点击pay now即可，如果需要订阅plus会员则直接访问chatgpt 点击升级计划即可
 
 ![image-20230725000412198](http://hua5-resources.oss-cn-hangzhou.aliyuncs.com/markdown/2023-07/ljx-image-20230725000412198.png)
+
+
+# 本人联系方式：
+telegram:    @drinsen
+
+qq:   1213904597
