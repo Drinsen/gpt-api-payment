@@ -18,7 +18,7 @@
 - 另外一种方式就是快连vpn(科学上网环境) + ip2word(纯净的住宅ip) ，可以花2美元买一周的使用时间，也是比较方便的
 
 ip2word官网地址为   https://www.ip2world.com?ref=SYJ5UGRZSP
-科学上网: https://pay.eradpd.xyz/   填写推荐人id 104173925 可以免费试用
+科学上网（快连vpn）: https://pay.eradpd.xyz/   填写推荐人id 104173925 可以免费试用
 
 
 2、支付方式
@@ -42,7 +42,7 @@ ip2word官网地址为   https://www.ip2world.com?ref=SYJ5UGRZSP
 当你准备开始的时候，你应该准备好了以下环境:
 
 - window操作系统，mac用户可以使用虚拟机
-- 科学上网客户端 (https://pay.eradpd.xyz/)
+- 快连vpn网客户端 (https://pay.eradpd.xyz/)
 - ip2word客户端（https://www.ip2world.com?ref=SYJ5UGRZSP）
 - onekey虚拟信用卡并有充足的余额
 
