@@ -1,3 +1,5 @@
+# 本人联系方式：
+如果需要交流和帮助，请联系qq:  1213904597
 # 如何充值ChatGpt plus 及 gpt api 接口额度
 
 因为chatgpt的多种限制，在大陆地区使用已经很不容易了，在这基础上需要给gpt充值会员、充值api key的使用额度更是难上加难，这里我总结了关于支付的几个重要的点和必备条件，本人在2023年7月23日亲测可以支付 
@@ -88,8 +90,3 @@ ip2word官网地址为   https://www.ip2world.com?ref=SYJ5UGRZSP
 
 ![image-20230725000412198](http://hua5-resources.oss-cn-hangzhou.aliyuncs.com/markdown/2023-07/ljx-image-20230725000412198.png)
 
-
-# 本人联系方式：
-telegram:    @drinsen
-
-qq:   1213904597
